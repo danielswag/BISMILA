@@ -1,4 +1,5 @@
 body {
   background-color: rgb(172, 172, 75);
   text-align: center;
+  box-sizing: border-box;
 }
